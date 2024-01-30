@@ -1,5 +1,5 @@
 ## Task Manager
-[Live Travelin Website](https://shivamg5501-taskmanager.netlify.app/)
+[Live TaskManager Website](https://shivamg5501-taskmanager.netlify.app/)
 
 ## Features
 
