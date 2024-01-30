@@ -1,6 +1,9 @@
 ## Task Manager
 [Live TaskManager Website](https://shivamg5501-taskmanager.netlify.app/)
 
+<img src="./src/images/home.png">
+<img src="./src/images/add.png">
+
 ## Features
 
 - ADD Task
