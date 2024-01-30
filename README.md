@@ -1,5 +1,14 @@
-## To run the Application
+## Task Manager
+[Live Travelin Website](https://shivamg5501-taskmanager.netlify.app/)
 
+## Features
+
+- ADD Task
+- DELETE Task
+- Modify Task
+- Sort Task
+
+In the project directory, you can run:
 ### Install dependencies
 
 ```
